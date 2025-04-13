@@ -1,6 +1,34 @@
 
-## Quixotic - Made with lots of `#2f2f2f` and `#d9d9d9`!
+# Quixotic - Made with lots of `#2f2f2f` and `#d9d9d9`!
 Oh, and love too, I guess.
+
+The goal of this skin was to make a pleasing monochrome interface, that is also easy on the eyes and leaves little room for distractions.
+
+I made this primarily in Figma, and you can check out the project [here](https://www.figma.com/design/1zG392vYEOZUBXJ2TOsZbr/Skins?node-id=0-1).
+
+## Promo
+<details> <summary> Screenshots </summary>
+<img src="!Promo/Screenshots/1.jpeg" width="384"/>
+<img src="!Promo/Screenshots/2.jpeg" width="384"/>
+<img src="!Promo/Screenshots/3.jpeg" width="384"/>
+<img src="!Promo/Screenshots/4.jpeg" width="384"/>
+</details>
+
+<details> <summary> Video </summary>
+
+[YouTube](https://youtu.be/Z9gQknQgcj8)
+
+...what? I can't embed videos larger than 10MB on here.
+</details>
+
+## Downloads
+1. Steam (Stable) - [Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3119237347)
+2. GitHub (Nightly) - [Download ZIP](https://github.com/danatationn/Quixotic/archive/refs/heads/main.zip)
+
+To install the nightly version, you'll need to extract the ZIP file into Quaver's skin folder.
+
+You can find the skin folder by opening Quaver, going to the Skin settings, and hitting on the button next to the `Open Skin Folder` section.
+It's also located at `(Steam path)/steamapps/common/Quaver/Skins/`.
 
 ## What's with all the skin.ini files?
 Quixotic has multiple skin.ini files for multiple use cases!
