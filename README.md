@@ -1,6 +1,8 @@
-
 # Quixotic - Made with lots of `#2f2f2f` and `#d9d9d9`!
+
 Oh, and love too, I guess.
+
+<img src="steam_workshop_preview.png" width="384"/>
 
 The goal of this skin was to make a pleasing monochrome interface, that is also easy on the eyes and leaves little room for distractions.
 
@@ -8,15 +10,15 @@ I made this primarily in Figma, and you can check out the project [here](https:/
 
 ## Promo
 <details> <summary> Screenshots </summary>
-<img src="!Promo/Screenshots/1.jpeg" width="384"/>
-<img src="!Promo/Screenshots/2.jpeg" width="384"/>
-<img src="!Promo/Screenshots/3.jpeg" width="384"/>
-<img src="!Promo/Screenshots/4.jpeg" width="384"/>
+<img src="!Goodies/V2/Screenshots/1 Still 2025-04-19 013027_1.7.1.png" width="384"/>
+<img src="!Goodies/V2/Screenshots/2 Screenshot From 2025-04-18 23-44-10.png" width="384"/>
+<img src="!Goodies/V2/Screenshots/3 Screenshot From 2025-04-18 23-42-12.png" width="384"/>
+<img src="!Goodies/V2/Screenshots/4 Screenshot From 2025-04-18 23-43-32.png" width="384"/>
 </details>
 
 <details> <summary> Video </summary>
 
-[YouTube](https://youtu.be/Z9gQknQgcj8)
+[YouTube](https://youtu.be/noFoSGQLcMo)
 
 ...what? I can't embed videos larger than 10MB on here.
 </details>
@@ -36,11 +38,11 @@ To replace your skin.ini files just rename the current skin.ini to something els
 
 Here's a nice little chart:
 
-|Filename				|Aspect Ratio	|Upscroll|
-------------------------|---------------|---------
-skin.downscroll.ini		|16:9/16:10		|No
-skin.upscroll.ini		|16:9/16:10		|Yes
-skin.universal.ini[^1]	|Any			|N/A
+|Filename				|Aspect Ratio	|Upscroll	|Default
+------------------------|---------------|-----------|-------
+skin.downscroll.ini		|16:9/16:10		|No			|Yes
+skin.upscroll.ini		|16:9/16:10		|Yes		|No
+skin.universal.ini[^1]	|Any			|N/A		|No
 
 ## Credits
 * The background: [gnome-backgrounds](https://gitlab.gnome.org/GNOME/gnome-backgrounds/-/commit/02031a4013e46b4332ac2b407d81d8d11afa349e#5078144395a055a4e16c0170d768b42946126b54) (WHY WAS THIS REMOVED)
