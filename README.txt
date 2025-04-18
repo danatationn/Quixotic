@@ -5,6 +5,12 @@ The goal of this skin was to make a pleasing monochrome interface, that is also 
 
 I made this primarily in Figma, and you can check out the project [url=https://www.figma.com/design/1zG392vYEOZUBXJ2TOsZbr/Skins?node-id=0-1] here. [/url]
 
+[h2] Can I change it to be bars instead? Or maybe circles? [/h2]
+Yes! Quixotic has Arrow, Circle and Bar variants.
+To switch them, go to your skin's folder, and look inside the [b] !Extras [/b] folder.
+Copy the two folders inside the variant you want, go to the folder you were just at and paste them, overwriting everything.
+Do [b] CTRL+S [/b] in-game to reload the skin, and you're done!
+
 [h2] Can I change where the numbers are? [/h2]
 Yes! Quixotic has multiple skin.ini files for multiple use cases.
 To replace your skin.ini files, just rename the current skin.ini to something else (e.g. "skin.ini.bak"), and then rename the one you want (e.g. "skin.upscroll.ini") to "skin.ini".

@@ -32,6 +32,14 @@ To install the nightly version, you'll need to extract the ZIP file into Quaver'
 You can find the skin folder by opening Quaver, going to the Skin settings, and hitting on the button next to the `Open Skin Folder` section.
 It's also located at `(Steam path)/steamapps/common/Quaver/Skins/`.
 
+
+## What's with the `!Extras` folder?
+Quixotic has Arrow, Circle and Bar variants.
+To switch them, go to your skin's folder, and look inside that folder.
+You can find the skin folder by opening Quaver, going to the Skin settings, and hitting on the button next to the `Open Skin Folder section`.
+Copy the two folders inside the variant you want, go to the folder you were just at and paste them, overwriting everything.
+Do `CTRL+S` in-game to reload the skin, and you're done!
+
 ## What's with all the skin.ini files?
 Quixotic has multiple skin.ini files for multiple use cases!
 To replace your skin.ini files just rename the current skin.ini to something else (e.g. "skin.ini.bak"), and then rename the one you want (e.g. "skin.upscroll.ini") to "skin.ini".
