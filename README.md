@@ -32,16 +32,14 @@ It's also located at `(Steam path)/steamapps/common/Quaver/Skins/`.
 
 ## What's with all the skin.ini files?
 Quixotic has multiple skin.ini files for multiple use cases!
-To replace your skin.ini files just rename the current skin.ini to something else (e.g. "skin.ini.bak"), and then rename the one you want (e.g. "skin.ini.16.10") to "skin.ini".
+To replace your skin.ini files just rename the current skin.ini to something else (e.g. "skin.ini.bak"), and then rename the one you want (e.g. "skin.upscroll.ini") to "skin.ini".
 
 Here's a nice little chart:
 
 |Filename				|Aspect Ratio	|Upscroll|
 ------------------------|---------------|---------
-skin.16.9.ini			|16:9			|No
-skin.upscroll.ini		|16:9			|Yes
-skin.16.10.ini			|16:10			|No	
-skin.upscroll.16.10.ini	|16:10			|Yes
+skin.downscroll.ini		|16:9/16:10		|No
+skin.upscroll.ini		|16:9/16:10		|Yes
 skin.universal.ini[^1]	|Any			|N/A
 
 ## Credits
